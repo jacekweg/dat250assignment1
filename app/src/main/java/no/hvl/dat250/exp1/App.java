@@ -1,3 +1,5 @@
+package no.hvl.dat250.exp1;
+
 import io.javalin.Javalin;
 
 public class App {
